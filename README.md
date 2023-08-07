@@ -12,3 +12,5 @@ and accurate sales forecasting.
 Incorporated data analysis techniques, specializing in **time series ananlysis**
 to deliver **valuable insights**, accurate sales forecasting with **interactive dashboard** 
 creation, driving business success
+
+Implemented DAX queries to generate new column and table.
